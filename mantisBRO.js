@@ -71,4 +71,4 @@ client.on('messageCreate', message => {
 
 
 // Log in to Discord with your bot token
-client.login('MTMxMTU2NzE3MzY3NTY0Njk3Nw.Gy2dFd.flcXeVrp3HJskAJfFxkE2sqOx0zF_6KQjLEUW4'); // Replace with your bot's token
+client.login('your token here'); // Replace with your bot's token
